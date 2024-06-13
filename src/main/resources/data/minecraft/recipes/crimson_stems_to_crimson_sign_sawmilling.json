@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:sawmilling",
+  "ingredient": {
+    "tag": "minecraft:crimson_stems"
+  },
+  "result": {
+    "count": 12,
+    "item": "minecraft:crimson_sign"
+  }
+}

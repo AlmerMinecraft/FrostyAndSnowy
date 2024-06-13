@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:sawmilling",
+  "ingredient": {
+    "tag": "minecraft:warped_stems"
+  },
+  "result": {
+    "count": 8,
+    "item": "minecraft:warped_slab"
+  }
+}

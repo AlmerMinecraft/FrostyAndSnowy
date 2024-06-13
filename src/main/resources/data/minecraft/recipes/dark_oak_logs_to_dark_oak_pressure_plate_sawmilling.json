@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:sawmilling",
+  "ingredient": {
+    "tag": "minecraft:dark_oak_logs"
+  },
+  "result": {
+    "count": 16,
+    "item": "minecraft:dark_oak_pressure_plate"
+  }
+}

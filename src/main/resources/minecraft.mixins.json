@@ -1,0 +1,28 @@
+{
+	"required": true,
+	"package": "almer.snowyandfrosty.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+		"FrostyAndSnowyMixin",
+		"MixinAbstractBlockSettings",
+		"MixinAxeItem",
+		"MixinBlockEntityType",
+		"MixinProperties",
+		"MixinTexturedRenderLayers",
+		"MixinBoatEntity",
+		"ArmorTrimPatternsMixin",
+		"CropBlockMixin"
+	],
+	"client": [
+		"MixinHangingSignBlockEntityRenderer",
+		"MixinSignBlockEntityRenderer",
+		"MixinHangingSignEditScreen",
+		"MixinSignEditScreen",
+		"MixinRenderLayers",
+		"BlockColorsMixin",
+		"MixinBoatEntityRenderer"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

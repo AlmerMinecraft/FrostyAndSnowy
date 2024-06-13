@@ -1,0 +1,17 @@
+{
+  "values": [
+    "minecraft:calcite_bricks",
+    "minecraft:cracked_calcite_bricks",
+    "minecraft:polished_calcite",
+    "minecraft:calcite_bricks_slab",
+    "minecraft:polished_calcite_slab",
+    "minecraft:calcite_slab",
+    "minecraft:calcite_stairs",
+    "minecraft:calcite_bricks_stairs",
+    "minecraft:polished_calcite_stairs",
+    "minecraft:calcite_wall",
+    "minecraft:calcite_bricks_wall",
+    "minecraft:chiseled_calcite",
+    "minecraft:polished_calcite_wall"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:sawmilling",
+  "ingredient": {
+    "tag": "minecraft:mangrove_logs"
+  },
+  "result": {
+    "count": 8,
+    "item": "minecraft:mangrove_slab"
+  }
+}

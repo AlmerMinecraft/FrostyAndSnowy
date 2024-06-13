@@ -1,0 +1,40 @@
+{
+  "frozen": {
+    "sounds": [
+      {
+        "name": "minecraft:frozen",
+        "stream": true
+      }
+    ]
+  },
+  "freeze_ambient": {
+    "subtitle": "entity.freeze.ambient",
+    "sounds": [
+      "minecraft:freeze_idle1",
+      "minecraft:freeze_idle2",
+      "minecraft:freeze_idle3",
+      "minecraft:freeze_idle4"
+    ]
+  },
+  "freeze_hurt": {
+    "subtitle": "entity.freeze.hurt",
+    "sounds": [
+      "minecraft:freeze_hurt1",
+      "minecraft:freeze_hurt2",
+      "minecraft:freeze_hurt3",
+      "minecraft:freeze_hurt4"
+    ]
+  },
+  "freeze_death": {
+    "subtitle": "entity.freeze.death",
+    "sounds": [
+      "minecraft:freeze_death"
+    ]
+  },
+  "freeze_shoot": {
+    "subtitle": "entity.freeze.shoot",
+    "sounds": [
+      "minecraft:freeze_shoot"
+    ]
+  }
+}

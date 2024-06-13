@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:sawmilling",
+  "ingredient": {
+    "tag": "minecraft:jungle_logs"
+  },
+  "result": {
+    "count": 4,
+    "item": "minecraft:jungle_door"
+  }
+}

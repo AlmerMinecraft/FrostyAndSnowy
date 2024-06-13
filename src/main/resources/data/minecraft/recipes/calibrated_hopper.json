@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:hopper"
+    },
+    "$": {
+      "tag": "minecraft:amethyst_shard"
+    },
+    "!": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "pattern": [
+    "!$!",
+    "$#$"
+  ],
+  "result": {
+    "item": "minecraft:calibrated_hopper"
+  }
+}

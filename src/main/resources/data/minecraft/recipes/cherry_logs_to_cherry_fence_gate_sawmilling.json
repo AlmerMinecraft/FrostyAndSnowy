@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:sawmilling",
+  "ingredient": {
+    "tag": "minecraft:cherry_logs"
+  },
+  "result": {
+    "count": 4,
+    "item": "minecraft:cherry_fence_gate"
+  }
+}

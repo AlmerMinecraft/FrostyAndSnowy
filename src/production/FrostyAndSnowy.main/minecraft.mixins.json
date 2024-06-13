@@ -1,0 +1,24 @@
+{
+	"required": true,
+	"package": "almer.snowyandfrosty.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+		"FrostyAndSnowyMixin",
+		"MixinAbstractBlockSettings",
+		"MixinAxeItem",
+		"MixinBlockEntityType",
+		"MixinProperties",
+		"MixinTexturedRenderLayers"
+	],
+	"client": [
+		"MixinHangingSignBlockEntityRenderer",
+		"MixinSignBlockEntityRenderer",
+		"MixinHangingSignEditScreen",
+		"MixinSignEditScreen",
+		"MixinRenderLayers",
+		"BlockColorsMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

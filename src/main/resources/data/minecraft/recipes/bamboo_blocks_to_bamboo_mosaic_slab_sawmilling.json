@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:sawmilling",
+  "ingredient": {
+    "tag": "minecraft:bamboo_blocks"
+  },
+  "result": {
+    "count": 2,
+    "item": "minecraft:bamboo_mosaic_slab"
+  }
+}

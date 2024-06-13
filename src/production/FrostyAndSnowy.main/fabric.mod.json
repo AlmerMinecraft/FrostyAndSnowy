@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "frostandsnowy",
+	"version": "${version}",
+	"name": "Frosty and Snowy",
+	"description": "My variant of new Minecraft update",
+	"authors": [
+		"Almer"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/minecraft/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"almer.snowyandfrosty.FrostyAndSnowy"
+		],
+		"client": [
+			"almer.snowyandfrosty.FrostyAndSnowyClient"
+		],
+		"fabric-datagen": [
+			"almer.snowyandfrosty.FrostyAndSnowyDataGenerator"
+		]
+	},
+	"mixins": [
+		"minecraft.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.20.4",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

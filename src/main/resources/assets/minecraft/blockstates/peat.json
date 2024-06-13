@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/peat"
+      },
+      {
+        "model": "minecraft:block/peat",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/peat",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/peat",
+        "y": 270
+      }
+    ]
+  }
+}

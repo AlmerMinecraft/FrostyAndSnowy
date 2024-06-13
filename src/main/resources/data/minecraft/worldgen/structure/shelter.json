@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:shelter",
+  "start_pool": "minecraft:shelter",
+  "size": 1,
+  "max_distance_from_center": 80,
+  "start_height": {
+    "absolute": -12
+  },
+  "project_start_to_heightmap": "WORLD_SURFACE_WG",
+  "biomes": "#minecraft:has_structure/shelter",
+  "spawn_overrides": {},
+  "step": "surface_structures"
+}
